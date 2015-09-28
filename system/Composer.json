@@ -1,0 +1,10 @@
+{
+    "require": {
+        "aura/router": "3.0.0-beta2"
+    },
+    "autoload": {
+      "psr-4": {
+        "Application\\": "../application/classes"
+      }
+    }
+}
